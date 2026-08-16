@@ -68,7 +68,21 @@ My approach blends a **product engineering mindset** — clean UI states, gracef
 
 <div align="center">
 
-`GenAI Developer Internship` &nbsp;•&nbsp; `Frontend Developer Roles` &nbsp;•&nbsp; `Full Stack Engineering` &nbsp;•&nbsp; `Open Source Collaboration`
+`GenAI Developer Internship` &nbsp;•&nbsp; `Frontend Developer Roles` &nbsp;•&nbsp; `Full Stack Engineering` &nbsp;•&nbsp; `Software Engineering Internship` &nbsp;•&nbsp; `Open Source Collaboration`
+
+</div>
+
+---
+
+## ⟡ Education
+
+<div align="center">
+
+| Qualification | Institution | Score | Years |
+|---|---|:---:|:---:|
+| **B.Tech, Information Technology** | Seshadrirao Gudlavalleru Engineering College | 8.5 CGPA | 2023 – 2027 |
+| **Intermediate (MPC)** | SR Junior College, Gollapudi | 89.8% | 2021 – 2023 |
+| **SSC** | St. Anne's High School, Guntupalli | 99.3% | 2020 – 2021 |
 
 </div>
 
@@ -88,11 +102,15 @@ My approach blends a **product engineering mindset** — clean UI states, gracef
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=flask,php,mysql,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,spring,php,mysql,nodejs&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,vercel&theme=dark" />
+
+**Core CS**
+
+`Data Structures & Algorithms` &nbsp;•&nbsp; `Object-Oriented Programming` &nbsp;•&nbsp; `Component-Based Architecture`
 
 </div>
 
